@@ -343,12 +343,6 @@ SOFTWARE.
 
 ## 📞 Contact
 
-### Author Information
-- **Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
 ### Project Links
 - **Repository**: [GitHub Repository](https://github.com/yourusername/verification-project)
 - **Live Demo**: [Demo URL](https://your-demo-url.com)
